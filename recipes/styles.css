@@ -1,0 +1,22 @@
+* {
+    background-color: bisque;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+h2 {
+    font-size: 40px;
+    color: darkslategrey;
+}
+
+ul li,
+ol li {
+    font-size: 30px;
+    list-style-position: inside;
+}

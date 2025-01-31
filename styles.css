@@ -1,0 +1,15 @@
+* {
+    background-color: lightcyan;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+    
+}
+
+.links {
+    font-size: 25px;
+    list-style-position: inside;
+}
