@@ -1,15 +1,27 @@
 * {
-    background-color: lightcyan;
+    background-color: #7fcbd7;
     font-family: 'Times New Roman', Times, serif;
     text-align: center;
 }
 
 h1 {
-    font-size: 60px;
-    
+    color: #2f3334;
+    margin: auto;
+    margin-bottom: 1.5em;
+    font-size: 4.5em;  
+}
+
+a{
+    background-color: #857ebb;
 }
 
 .links {
-    font-size: 25px;
-    list-style-position: inside;
+    box-sizing: border-box;
+    background-color: #857ebb;
+    font-size: 1.8em;
+    margin: auto;
+    margin-bottom: 1em;
+    padding: 1.8em;
+    height: 7em;
+    width: 15.5em;
 }
